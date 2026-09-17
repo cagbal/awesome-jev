@@ -1,4 +1,4 @@
-# awesome-jev
+# awesome-jev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of Jev-related projects and resources for reference.
 
