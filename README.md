@@ -1,6 +1,14 @@
 # awesome-jev
 
-Curated list of Jev-related projects and resources.
+A list of Jev-related projects and resources for reference.
+
+## Disclaimer
+
+None of the projects listed here are approved or endorsed by me (cagbal). This repository is only a reference list; inclusion does not mean that a project has been audited, certified, or verified as safe, reliable, or suitable for any purpose.
+
+Evaluate each project independently and use it at your own risk. This list is provided as-is, without warranties. To the fullest extent permitted by applicable law, the maintainer and contributors disclaim liability for loss or damage arising from reliance on this list or use of any linked project.
+
+## What is Jev?
 
 Jev is TypeSafe AI’s model for turning unstructured input into fast, typed decisions with probabilities that software can act on directly.
 
@@ -20,3 +28,7 @@ Learn more in TypeSafe AI’s [introduction to System One models and Jev](https:
 - [blink](https://github.com/ellipsis-dev/blink) finds files matching natural-language requests through multiple Jev-guided searches of a directory tree.
 - [typesafe-cli](https://github.com/y0usaf/typesafe-cli) brings Jev’s probability, choice, and scoring queries to the terminal.
 - [typesafe-mario](https://github.com/fhshaik/typesafe-mario) lets Jev choose Super Mario Bros. controller actions from structured emulator telemetry.
+
+## License
+
+This repository’s original list content and documentation are licensed under the [MIT License](LICENSE). Linked projects and third-party materials remain subject to their respective licenses; this license does not grant rights to them.
