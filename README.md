@@ -28,6 +28,11 @@ Learn more in TypeSafe AI’s [introduction to System One models and Jev](https:
 - [blink](https://github.com/ellipsis-dev/blink) finds files matching natural-language requests through multiple Jev-guided searches of a directory tree.
 - [typesafe-cli](https://github.com/y0usaf/typesafe-cli) brings Jev’s probability, choice, and scoring queries to the terminal.
 - [typesafe-mario](https://github.com/fhshaik/typesafe-mario) lets Jev choose Super Mario Bros. controller actions from structured emulator telemetry.
+- [jev-belay](https://github.com/valentynkit/jev-belay) reads the Claude Code transcript for evidence and asks Jev four questions before letting an unverified "done" through, failing open on any error.
+- [jev-commit](https://github.com/valentynkit/jev-commit) asks Jev whether a commit message matches the staged diff, and blocks the commit only when it finds a leaked credential.
+- [jev.nvim](https://github.com/valentynkit/jev.nvim) splits the buffer into functions with Treesitter, has Jev score each one against a plain-language question, and lists the answers in quickfix ranked by probability.
+- [jev-skip](https://github.com/valentynkit/jev-skip) reads YouTube's caption track and paints a per-segment sponsor probability on the seek bar before the intro ends, with no crowd database.
+- [jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) plays Pokemon Red on PyBoy, calling Jev only at route branches and scoring its faint predictions against the RAM state with Brier.
 
 ## License
 
